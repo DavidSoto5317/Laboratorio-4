@@ -1,4 +1,7 @@
-// CC2006, Lab 4
+/**
+ * 
+ * @author David
+ */
 // Una clase para representar a los militares en general.
 
 public class Militar {

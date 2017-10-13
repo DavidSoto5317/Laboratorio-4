@@ -1,4 +1,7 @@
-// CC2006, Lab 4
+/**
+ * 
+ * @author David
+ */
 // Una clase para representar a los Generales.
 
 public class General extends Militar {
